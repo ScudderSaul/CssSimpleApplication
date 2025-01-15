@@ -5,6 +5,8 @@ The source for the extension is in the repository https://github.com/ScudderSaul
 This version uses its own SqLite database rather than the one that comes with visual studio. It runs as an independent Wpf application.
 There is currently at least one bug in the animation design tools.
 
+jan 15 2025 Modified to no longer use an older visual library the change is untested.
+
 Copyright(c) 2019-2022 by Saul Scudder
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files(the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and /or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
